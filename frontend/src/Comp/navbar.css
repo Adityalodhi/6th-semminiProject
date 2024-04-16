@@ -1,0 +1,46 @@
+
+.nav-ul{
+    padding: 5px;
+    margin: 0;
+    background-color: skyblue;
+    height: 60px;
+    /* display: flex;
+    align-items: right; */
+    /* margin-top: 10px; */
+    text-align: right;
+}
+
+.nav-ul li{
+    display: inline-block;
+    padding: 10px;
+    margin-top: 10px; 
+    margin-right: 15px; 
+}
+
+.nav-ul li a{
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav-right{
+    text-align: right;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+.logNav{
+    display: none;
+}
+
+.leftNav{
+    align-items: right;
+}
